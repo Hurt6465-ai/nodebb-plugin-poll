@@ -1,7 +1,7 @@
 {
   "name": "nodebb-plugin-poll",
   "version": "4.0.7",
-  "description": "NodeBB Poll Plugin",
+  "description": "NodeBB 投票插件",
   "main": "library.js",
   "scripts": {
     "lint": "eslint .",
